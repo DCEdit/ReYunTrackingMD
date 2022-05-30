@@ -36,6 +36,8 @@ You can Use ReYunTrackingMD to Integrate ReYunTracking.yes
   s.vendored_libraries  = 'ReYunTrackingMD/ReYunTrackingMD/libReYunTracking.a'
   # s.public_header_files = 'Pod/Classes/**/*.h'
 
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
+
   # s.resource_bundles = {
   #   'ReYunTrackingMD' => ['ReYunTrackingMD/Assets/*.png']
   # }
