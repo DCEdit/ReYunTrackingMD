@@ -1,0 +1,16 @@
+PODS:
+  - ReYunTrackingMD (0.1.0)
+
+DEPENDENCIES:
+  - ReYunTrackingMD (from `../`)
+
+EXTERNAL SOURCES:
+  ReYunTrackingMD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReYunTrackingMD: 3b818ef2e12fbaae71b94a1e1409ffc0bce05c16
+
+PODFILE CHECKSUM: dccfdadf1eedd11b077e0129836b1eb17fedcbd4
+
+COCOAPODS: 1.11.3

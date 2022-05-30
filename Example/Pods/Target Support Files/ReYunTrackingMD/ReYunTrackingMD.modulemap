@@ -1,0 +1,6 @@
+framework module ReYunTrackingMD {
+  umbrella header "ReYunTrackingMD-umbrella.h"
+
+  export *
+  module * { export * }
+}

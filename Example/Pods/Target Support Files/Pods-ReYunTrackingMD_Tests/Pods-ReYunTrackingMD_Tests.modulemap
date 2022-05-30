@@ -1,0 +1,6 @@
+framework module Pods_ReYunTrackingMD_Tests {
+  umbrella header "Pods-ReYunTrackingMD_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
